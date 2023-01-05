@@ -72,3 +72,4 @@ public class MouseMoveEventEx extends JFrame {
         });
     }
 }
+
